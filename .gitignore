@@ -1,0 +1,31 @@
+# Build outputs and caches
+build/
+dist/
+__pycache__/
+*.py[cod]
+*.o
+*.so
+
+# Models, datasets, and recordings are intentionally excluded
+models/*
+!models/README.md
+data/
+datasets/
+*.onnx
+*.rknn
+*.pt
+*.weights
+*.mp4
+*.avi
+*.mov
+
+# Local tooling and OS metadata
+.vscode/
+.idea/
+.DS_Store
+photorec.*
+recovery_backup*
+
+# Logs and generated benchmark output
+*.log
+results/raw/
