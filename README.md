@@ -126,4 +126,4 @@ RKNN 후처리는 Python에서 빠르게 교정하고, frame 수명주기와 tra
 
 ## 라이선스와 제3자 코드
 
-RKNN Model Zoo 기반 코드와 외부 참고 자료는 [Third-party notices](THIRD_PARTY_NOTICES.md)에 정리했다. `LFQSPSC.h`는 기술 블로그의 SPSC queue 설계를 참고한 재배포 가능 구현으로 출처를 기록했다. 프로젝트 자체 코드에 적용할 일괄 라이선스는 별도로 결정한다.
+RKNN Model Zoo 기반 코드와 외부 참고 자료는 [Third-party notices](THIRD_PARTY_NOTICES.md)에 정리했다. `LFQSPSC.h`는 기술 블로그의 SPSC queue 설계를 참고한 재배포 가능 구현으로 출처를 기록했다.
